@@ -8,3 +8,14 @@
 button {
     cursor: pointer;
 }
+
+#scores {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 100px;
+}
+
+p {
+    text-align: center;
+}
