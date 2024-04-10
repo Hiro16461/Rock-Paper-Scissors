@@ -1,0 +1,10 @@
+#buttons {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+}
+
+button {
+    cursor: pointer;
+}

@@ -17,8 +17,6 @@ function playGame() {
     }
 }
 
-console.log(playGame());
-
 function getTheRandomNumber() {
 	return Math.floor(Math.random() * 3);
 }
